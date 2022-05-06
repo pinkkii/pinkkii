@@ -42,7 +42,7 @@ about me, but i`m lazy now
 <p align=center>
   <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img align="center" width = "75%" src="https://github-profile-trophy.vercel.app/?username=Eugene717&theme=darkhub&no-frame=true&v=2" />
+      <img align="center" width = "75%" src="https://github-profile-trophy.vercel.app/?username=pinkkii&theme=darkhub&no-frame=true&v=2" />
     </a>
     <br><br>
 <p align=center>
