@@ -8,8 +8,8 @@
   
 <h5 align="center">
   <code>
-    <a href="https://www.instagram.com/__yudzhin___/" title="Instagram Profile"><img width="32" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://steamcommunity.com/profiles/76561198189518437/" title="Steam Profile"><img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1200px-Steam_icon_logo.svg.png"> Steam</a></code>
+    <a href="https://www.instagram.com/p_inkki/" title="Instagram Profile"><img width="32" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://steamcommunity.com/id/p4j3r/" title="Steam Profile"><img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1200px-Steam_icon_logo.svg.png"> Steam</a></code>
 <!--  </h5>
 <br>
 about me, but i`m lazy now
@@ -18,7 +18,7 @@ about me, but i`m lazy now
 <h2 align="center">🔥 Languages & Frameworks & Tools & Apps 🔥</h2>
 <br>
   <p align="center">  
-<code><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>  
+<code><img src="https://img.shields.io/endpoint?color=black&label=JavaScript&logo=javascript&style=for-the-badge"></code>  
 <code><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"></code>
