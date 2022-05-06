@@ -51,18 +51,18 @@ about me, but i`m lazy now
       <img align="left" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=Eugene717&border=00FF00&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF&v=2" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Eugene717&theme=chartreuse-dark&show_icons=true&icon_color=00FF00&title_color=00FF00&border_color=00FF00&v=2" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=p_inkki7&theme=chartreuse-dark&show_icons=true&icon_color=00FF00&title_color=00FF00&border_color=00FF00&v=2" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
 
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=p_inkki&border_color=00FF00&bg_color=000000&title_color=00FF00&text_color=00FF00&v=2" />
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=p_inkki7&border_color=00FF00&bg_color=000000&title_color=00FF00&text_color=00FF00&v=2" />
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Eugene717&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true&v=2" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=p_inkki7&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true&v=2" width="100%"/>
 </p>
 
   
