@@ -1,9 +1,8 @@
-Женя, [04.05.2022 10:35]
 <!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.Eugene717">-->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&width=550&lines=Hello%2C+world!;My+name+is+Eugene;and+i+only+program+in+C%2B%2B;because+i+want+to+develop+games">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+world!;My+name+is+Dima;and+I'm+a+web+programmer">
   </a>
 </h1>
   
@@ -61,7 +60,6 @@ about me, but i`m lazy now
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
 
-Женя, [04.05.2022 10:35]
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eugene71&border_color=00FF00&bg_color=000000&title_color=00FF00&text_color=00FF00&v=2" />
     </a>
   </div>
